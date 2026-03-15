@@ -368,7 +368,7 @@ transform:rotateY(0deg);
 }
 
 /* Make whole game fit screen */
-#gameScreen{
+#gameScreen.active{
 height:100vh;
 display:flex;
 flex-direction:column;
